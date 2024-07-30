@@ -1,0 +1,24 @@
+.backBtnn
+{
+    color: #0056b3;
+    display: inline-block;
+    font-size: 20px;
+    font-weight:bolder ;
+    margin-left: 40px;
+    padding: 5px;
+}
+.backBtnn span
+{
+    padding: 5px;
+    font-size: 20px;
+
+}
+.backBtnn:hover
+{
+  text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.258);
+}
+.register{
+    display: flex;
+    justify-content: center;
+
+}
